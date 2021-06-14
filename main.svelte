@@ -1,2 +1,2 @@
 <script src="script.ts"></script>
-<div id="app"></div>
+<div id="web_greeter"></div>
