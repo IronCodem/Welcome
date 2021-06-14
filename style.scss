@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
 body {
   background: #20262E;
   padding: 20px;
-  font-family: Helvetica;
+  font-family: 'Mate SC', serif;
 }
 
 #web_greeter {
-  background: #fff;
+  background: #snow;
   border-radius: 4px;
   padding: 20px;
   transition: all 0.2s;
