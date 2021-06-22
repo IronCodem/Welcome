@@ -12,4 +12,4 @@ let user = {
   lastName:  "Shah"
 };
 
-document.querySelector("#web_greeter").innerHTML = greeter(user);
+document.querySelector("#greet.main").innerHTML = greeter(user);
